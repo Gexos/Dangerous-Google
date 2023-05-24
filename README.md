@@ -1,7 +1,6 @@
 # Dangerous-Google
 Dangerous Google – Searching for Secrets
 
-# Dangerous Google
 
 ### A list of useful Google hacks.
 
